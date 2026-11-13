@@ -49,7 +49,8 @@ A modern and responsive Resume Builder web application built with React.js. It p
 
 
 ### 6. Request a Demo
-<img width="1325" height="618" alt="r demo" src="https://github.com/user-attachments/assets/b5f21282-a18c-4f76-b339-cef8a0d30c77" />
+<img width="1233" height="672" alt="r new" src="https://github.com/user-attachments/assets/a87d2f84-fcd4-45f2-963b-061d8b006131" />
+
 
 
 ### 7. Footer
